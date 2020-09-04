@@ -1,6 +1,6 @@
 ### 深信服EDR未授权RCE检测
 
-**zoomeye dork：app:"Nginx 1.15.11"**
+**zoomeye dork：app:"深信服EDR"**
 
 ![](images/1.png)
 
