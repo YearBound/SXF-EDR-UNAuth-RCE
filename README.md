@@ -1,10 +1,10 @@
-### 深信服EDR未授权RCE检测
+### 深信服EDR Token绕过RCE检测
 
 **zoomeye dork：app:"深信服EDR"**
 
 ![](images/1.png)
 
-使用pocsuite3编写的无害检测脚本[20200904_WEB_SXF_EDR_UNAuth_RCE]()检测：
+使用pocsuite3编写的无害检测脚本[20200904_WEB_SXF_EDR_Token_Bypass_RCE]()检测：
 
 ![](images/2.png)
 
